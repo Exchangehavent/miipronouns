@@ -1,1 +1,1 @@
-`Mii Whacka uses They/Them`,`Mii Ale uses He/Him`
+{"name": "Whacka","pronoun": "They/Them",},{"name": "Ale","pronoun": "He/Him",}
